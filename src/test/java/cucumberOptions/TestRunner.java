@@ -13,7 +13,7 @@ import org.junit.runner.RunWith;
         glue ="stepDefinitions",
         strict = true,
         //tags = {"@WebTest or @MobileTest"}
-        tags = "@RegressionTest",
+        tags = "@WebTest",
         //step definition file
         //dryRun = true,
         monochrome = true,
